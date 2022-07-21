@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=4815F7&center=true&lines=I'm+Chen+Ang!)](https://git.io/typing-svg)
 
 
-<img src="https://img.shields.io/badge/-C++-E34F26?style=flat-square&logo=C++&logoColor=white" /> <img src="https://img.shields.io/badge/-Linux-1572B6?style=flat-square&logo=Linux" /> <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" /> 
+<img src="https://img.shields.io/badge/-C++-E34F26?style=flat-square&logo=C++&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" /> <img src="https://img.shields.io/badge/-Linux-1572B6?style=flat-square&logo=Linux" /> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenanga&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
