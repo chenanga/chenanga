@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 💻 A Postgraduate Student from Harbin Engineering University. & Open Source enthusiast.
 - 🌱 Currently studying in Harbin, China.
 - ⚡ Fun fact: C++, Back-end development, DIS, QT, UAV, Linux, DRL. 
-- ⭐️ [My Blog](https://blog.csdn.net/weixin_42035347): Here are a lot of meaningful work I have done in the past.
+- ⭐️ [My Blog](https://blog.csdn.net/weixin_42035347) 、 [My Website](https://blogca.cn): Here are a lot of meaningful work I have done in the past.
 - :cyclone: Languages: C++, C, Python, Matlab..
 
 
