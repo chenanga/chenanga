@@ -23,11 +23,10 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenanga&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💻 A Postgraduate Student from BUAA. & Open Source enthusiast.
-- 🌱 Currently studying in Beijing, China.
-- 💬 Ask me about C++, Linux and my projects on [yunfei_z@buaa.edu.cn](mailto:yunfei_z@buaa.edu.cn)
+- 💻 A Postgraduate Student from Harbin Engineering University. & Open Source enthusiast.
+- 🌱 Currently studying in Harbin, China.
 - ⚡ Fun fact: C++, Back-end development, DIS, QT, UAV, Linux, DRL. 
-- ⭐️ [My Blog](https://blog.csdn.net/weixin_43145941?spm=1001.2101.3001.5343): Here are a lot of meaningful work I have done in the past.
+- ⭐️ [My Blog](https://blog.csdn.net/weixin_42035347): Here are a lot of meaningful work I have done in the past.
 - :cyclone: Languages: C++, C, Python, Matlab..
 
 
