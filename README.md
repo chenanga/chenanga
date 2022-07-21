@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🌱 Currently studying in Harbin, China.
 - ⚡ Fun fact: C++, Back-end development, QT, UAV, Linux. 
 - ⭐️ [My Blog](https://blog.csdn.net/weixin_42035347) 、 [My Website](https://blogca.cn): Here are a lot of meaningful work I have done in the past.
-- 📫 Email: [blogchen@qq.com](mailto: blogchen@qq.com)
+- 📫 Email: [blogchen@qq.com](mailto:blogchen@qq.com)
 - :cyclone: Languages: C++, C, Python..
 
 
